@@ -1,0 +1,211 @@
+[15-Sep-2022 20:47:24 Asia/Jakarta] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'skip3428_tugasku4'@'localhost' (using password: YES) in /home/skip3428/public_html/TUGASKU/config.php on line 2
+[15-Sep-2022 21:01:29 Asia/Jakarta] PHP Notice:  Undefined index: foto_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 33
+[15-Sep-2022 21:01:29 Asia/Jakarta] PHP Notice:  Undefined index: total_dalamhektar in /home/skip3428/public_html/TUGASKU/index.php on line 36
+[15-Sep-2022 21:01:29 Asia/Jakarta] PHP Notice:  Undefined index: tahun_garapan in /home/skip3428/public_html/TUGASKU/index.php on line 37
+[15-Sep-2022 21:01:29 Asia/Jakarta] PHP Notice:  Undefined index: status_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 38
+[15-Sep-2022 21:01:29 Asia/Jakarta] PHP Notice:  Undefined index: alamat_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 39
+[15-Sep-2022 21:01:29 Asia/Jakarta] PHP Notice:  Undefined index: komoditas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 40
+[15-Sep-2022 21:01:29 Asia/Jakarta] PHP Notice:  Undefined index: varietas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 41
+[15-Sep-2022 21:01:29 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:29 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:29 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../modal/modal-lokasi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Notice:  Undefined index: foto_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 33
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Notice:  Undefined index: total_dalamhektar in /home/skip3428/public_html/TUGASKU/index.php on line 36
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Notice:  Undefined index: tahun_garapan in /home/skip3428/public_html/TUGASKU/index.php on line 37
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Notice:  Undefined index: status_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 38
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Notice:  Undefined index: alamat_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 39
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Notice:  Undefined index: komoditas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 40
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Notice:  Undefined index: varietas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 41
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../modal/modal-lokasi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Notice:  Undefined index: foto_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 33
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Notice:  Undefined index: total_dalamhektar in /home/skip3428/public_html/TUGASKU/index.php on line 36
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Notice:  Undefined index: tahun_garapan in /home/skip3428/public_html/TUGASKU/index.php on line 37
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Notice:  Undefined index: status_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 38
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Notice:  Undefined index: alamat_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 39
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Notice:  Undefined index: komoditas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 40
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Notice:  Undefined index: varietas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 41
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:30 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../modal/modal-lokasi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: foto_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 33
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: total_dalamhektar in /home/skip3428/public_html/TUGASKU/index.php on line 36
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: tahun_garapan in /home/skip3428/public_html/TUGASKU/index.php on line 37
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: status_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 38
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: alamat_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 39
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: komoditas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 40
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: varietas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 41
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../modal/modal-lokasi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: foto_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 33
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: total_dalamhektar in /home/skip3428/public_html/TUGASKU/index.php on line 36
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: tahun_garapan in /home/skip3428/public_html/TUGASKU/index.php on line 37
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: status_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 38
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: alamat_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 39
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: komoditas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 40
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: varietas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 41
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../modal/modal-lokasi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: foto_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 33
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: total_dalamhektar in /home/skip3428/public_html/TUGASKU/index.php on line 36
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: tahun_garapan in /home/skip3428/public_html/TUGASKU/index.php on line 37
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: status_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 38
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: alamat_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 39
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: komoditas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 40
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Notice:  Undefined index: varietas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 41
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:01:49 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../modal/modal-lokasi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Notice:  Undefined index: foto_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 33
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Notice:  Undefined index: total_dalamhektar in /home/skip3428/public_html/TUGASKU/index.php on line 36
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Notice:  Undefined index: tahun_garapan in /home/skip3428/public_html/TUGASKU/index.php on line 37
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Notice:  Undefined index: status_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 38
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Notice:  Undefined index: alamat_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 39
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Notice:  Undefined index: komoditas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 40
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Notice:  Undefined index: varietas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 41
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../modal/modal-lokasi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Notice:  Undefined index: foto_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 33
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Notice:  Undefined index: total_dalamhektar in /home/skip3428/public_html/TUGASKU/index.php on line 36
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Notice:  Undefined index: tahun_garapan in /home/skip3428/public_html/TUGASKU/index.php on line 37
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Notice:  Undefined index: status_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 38
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Notice:  Undefined index: alamat_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 39
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Notice:  Undefined index: komoditas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 40
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Notice:  Undefined index: varietas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 41
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:02:09 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../modal/modal-lokasi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:02:10 Asia/Jakarta] PHP Notice:  Undefined index: foto_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 33
+[15-Sep-2022 21:02:10 Asia/Jakarta] PHP Notice:  Undefined index: total_dalamhektar in /home/skip3428/public_html/TUGASKU/index.php on line 36
+[15-Sep-2022 21:02:10 Asia/Jakarta] PHP Notice:  Undefined index: tahun_garapan in /home/skip3428/public_html/TUGASKU/index.php on line 37
+[15-Sep-2022 21:02:10 Asia/Jakarta] PHP Notice:  Undefined index: status_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 38
+[15-Sep-2022 21:02:10 Asia/Jakarta] PHP Notice:  Undefined index: alamat_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 39
+[15-Sep-2022 21:02:10 Asia/Jakarta] PHP Notice:  Undefined index: komoditas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 40
+[15-Sep-2022 21:02:10 Asia/Jakarta] PHP Notice:  Undefined index: varietas_sayur in /home/skip3428/public_html/TUGASKU/index.php on line 41
+[15-Sep-2022 21:02:10 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:02:10 Asia/Jakarta] PHP Warning:  include(../../modal/modal-lokasi.php): failed to open stream: No such file or directory in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:02:10 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../modal/modal-lokasi.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/skip3428/public_html/TUGASKU/index.php on line 43
+[15-Sep-2022 21:04:07 Asia/Jakarta] PHP Notice:  Undefined index: foto_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 33
+[15-Sep-2022 21:04:07 Asia/Jakarta] PHP Notice:  Undefined index: foto_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 33
+[15-Sep-2022 21:04:08 Asia/Jakarta] PHP Notice:  Undefined index: foto_lahan in /home/skip3428/public_html/TUGASKU/index.php on line 33
+[15-Sep-2022 21:56:52 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 147
+[15-Sep-2022 21:56:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 147
+[15-Sep-2022 21:57:29 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 147
+[15-Sep-2022 21:57:29 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 147
+[15-Sep-2022 21:57:44 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 147
+[15-Sep-2022 21:57:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 147
+[15-Sep-2022 21:58:27 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 115
+[15-Sep-2022 21:58:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 115
+[15-Sep-2022 21:58:48 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 115
+[15-Sep-2022 21:58:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 115
+[15-Sep-2022 21:59:14 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 21:59:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 21:59:27 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 21:59:27 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 21:59:30 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 21:59:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 21:59:39 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 21:59:39 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 21:59:41 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 21:59:41 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:00:04 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:00:04 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:00:13 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 115
+[15-Sep-2022 22:00:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 115
+[15-Sep-2022 22:00:17 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 115
+[15-Sep-2022 22:00:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 115
+[15-Sep-2022 22:00:57 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:00:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:01:00 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:01:00 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:01:03 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:01:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:01:19 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 117
+[15-Sep-2022 22:01:19 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 117
+[15-Sep-2022 22:01:24 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 117
+[15-Sep-2022 22:01:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 117
+[15-Sep-2022 22:01:38 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:01:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:02:45 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:02:45 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:02:48 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:02:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:04:26 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:04:26 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:04:46 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:04:46 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:05:01 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:05:01 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 116
+[15-Sep-2022 22:05:17 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 115
+[15-Sep-2022 22:05:17 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 115
+[15-Sep-2022 22:05:21 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 115
+[15-Sep-2022 22:05:21 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 115
+[15-Sep-2022 22:06:07 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 120
+[15-Sep-2022 22:06:07 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 120
+[15-Sep-2022 22:06:47 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 120
+[15-Sep-2022 22:06:47 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 120
+[15-Sep-2022 22:07:03 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:07:03 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:07:24 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 122
+[15-Sep-2022 22:07:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 122
+[15-Sep-2022 22:10:18 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 125
+[15-Sep-2022 22:10:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 125
+[15-Sep-2022 22:10:57 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 125
+[15-Sep-2022 22:10:57 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 125
+[15-Sep-2022 22:11:24 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 125
+[15-Sep-2022 22:11:24 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 125
+[15-Sep-2022 22:11:34 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 125
+[15-Sep-2022 22:11:34 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 125
+[15-Sep-2022 22:12:58 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:12:58 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:14:13 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:14:13 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:20:11 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:20:11 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:20:23 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:20:23 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:20:33 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:20:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:21:02 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:21:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:21:06 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:21:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:22:30 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:22:30 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:29:10 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:29:10 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:29:12 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:29:12 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:29:48 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:29:48 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:30:44 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:30:44 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:31:40 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:31:40 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:32:51 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:32:51 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:33:09 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:33:09 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:36:33 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:36:33 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:38:02 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:38:02 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:38:18 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:38:18 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:39:59 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:39:59 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:40:14 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:40:14 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:40:52 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:40:52 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:41:38 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:41:38 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:42:25 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:42:25 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:43:06 Asia/Jakarta] PHP Notice:  Undefined variable: komoditas in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[15-Sep-2022 22:43:06 Asia/Jakarta] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/skip3428/public_html/TUGASKU/add.php on line 121
+[17-Sep-2022 16:30:31 Asia/Jakarta] PHP Notice:  Undefined index: longitude in /home/skip3428/public_html/TUGASKU/process-add.php on line 7
